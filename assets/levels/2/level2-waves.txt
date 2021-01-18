@@ -1,0 +1,11 @@
+005 4 wolf
+025 4 wolf
+030 5 wolf
+050 1 demon
+070 1 demon 2 wolf
+074 1 demon
+078 4 wolf
+098 5 orc 1 demon
+102 1 armored 1 demon
+110 6 wolf
+112 4 orc 1 demon 1 armored

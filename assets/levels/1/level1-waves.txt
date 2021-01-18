@@ -1,0 +1,10 @@
+005 3 orc
+020 3 orc
+024 3 orc
+044 2 armored
+060 1 armored 3 orc
+066 1 armored 4 orc
+090 1 armored 4 orc
+095 6 orc
+101 1 armored 5 orc
+
